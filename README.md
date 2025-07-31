@@ -4,3 +4,7 @@ I got to know about where i should use different things.
 
 #INSTRUCTIONS
 to move the snake use arrows
+
+
+link===>>>
+https://snake-gme23.netlify.app/
